@@ -1,0 +1,3 @@
+
+print("omkaar")
+print('omkaar')

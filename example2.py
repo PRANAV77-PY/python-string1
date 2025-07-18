@@ -1,0 +1,4 @@
+
+a="omkaar"
+
+print(a)

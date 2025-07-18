@@ -1,0 +1,6 @@
+b = "  hello,world!  "
+print(b.strip())
+
+#practice remove whitespace
+b = " Hello, world! "
+print(b.strip())
